@@ -1,12 +1,3 @@
-This project explores advanced deep learning techniques applied to sequential data and natural language processing (NLP). It includes temperature forecasting using Recurrent Neural Networks (RNNs), sentiment analysis with Long Short-Term Memory (LSTM) networks, and machine translation using Transformer architectures. Key highlights include:
-
-Temperature Forecasting with RNNs: Predicting temperature using weather data, focusing on feature engineering and hyperparameter tuning.
-Sentiment Analysis with LSTMs: Classifying IMDB movie reviews, addressing data imbalance, and using pre-trained embeddings.
-NLP with Transformers: Implementing machine translation from English to Spanish, utilizing self-attention mechanisms and text preprocessing.
-This project demonstrates expertise in deep learning models and their application to real-world problems.
-
-for github
-ChatGPT
 Advanced Deep Learning Techniques
 This project demonstrates the application of advanced deep learning techniques to sequential data and natural language processing (NLP). The project is divided into three parts:
 
